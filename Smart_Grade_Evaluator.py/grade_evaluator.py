@@ -1,3 +1,4 @@
+print("--Smart Grade Evualator--")
 # This allows the student to his or her score
 score=int(input("Please enter your score: "))
 
